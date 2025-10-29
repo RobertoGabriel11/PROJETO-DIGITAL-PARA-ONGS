@@ -1,6 +1,6 @@
 # PROJETO-DIGITAL-PARA-ONGS
 **🌟 Visão Geral do Projeto**
-O PROJETO-DIGITAL-PARA-ONGS é uma plataforma web criada com o objetivo de otimizar e digitalizar a interação entre Organizações Não Governamentais (ONGs), voluntários e membros/doadores.
+O projeto é uma plataforma web criada com o objetivo de otimizar e digitalizar a interação entre Organizações Não Governamentais (ONGs), voluntários e membros/doadores.
 
 Nosso propósito é construir um ecossistema digital que aumente a visibilidade das causas, simplifique a gestão de projetos e torne a colaboração mais eficiente, maximizando o impacto social.
 
