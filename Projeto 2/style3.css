@@ -1,0 +1,100 @@
+body{
+ font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f0f2f5;
+    color: #333;
+}
+.cabecalho{ 
+    display:flex;
+    flex-direction: column;
+    background-color: #0f52b1;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(255, 255, 255, 0.1);
+}
+.container-principal{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20pv;
+}
+.links{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(189, 189, 189);
+}
+.link1{
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+}
+.link2{
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+}
+.link3{
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+}
+.titulo{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.cartao1{
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 800px;
+    padding: 20px;
+    transition: transform 0.3s;
+    margin-top: 20px;
+}
+.cartao1:hover{
+    transform: translateY(-8px);
+}
+.cartao2{
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 800px;
+    padding: 20px;
+    transition: transform 0.3s;
+    margin-top: 20px;
+}
+.cartao2:hover{
+    transform: translateY(-8px);
+}
+.cartao3{
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 800px;
+    padding: 20px;
+    transition: transform 0.3s;
+    margin-top: 20px;
+}
+.cartao3:hover{
+    transform: translateY(-8px);
+}
+.container-secundario{
+    display:flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 800px;
+    padding: 30px;
+    transition: transform 0.3s;
+    margin-top: 20px;
+}
+.rodape{
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+    background-color: #0f52b1;
+    color: #ecf0f1;
+}
