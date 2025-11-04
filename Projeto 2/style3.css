@@ -39,47 +39,6 @@ body{
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     padding: 30px;
 }
-.titulo{
-    display:flex;
-    flex-direction: column;
-    justify-content: center;
-}
-.cartao1{
-    background-color: white;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    width: 800px;
-    padding: 20px;
-    transition: transform 0.3s;
-    margin-top: 20px;
-}
-.cartao1:hover{
-    transform: translateY(-8px);
-}
-.cartao2{
-    background-color: white;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    width: 800px;
-    padding: 20px;
-    transition: transform 0.3s;
-    margin-top: 20px;
-}
-.cartao2:hover{
-    transform: translateY(-8px);
-}
-.cartao3{
-    background-color: white;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    width: 800px;
-    padding: 20px;
-    transition: transform 0.3s;
-    margin-top: 20px;
-}
-.cartao3:hover{
-    transform: translateY(-8px);
-}
 .container-secundario{
     display:flex;
     flex-direction: column;
